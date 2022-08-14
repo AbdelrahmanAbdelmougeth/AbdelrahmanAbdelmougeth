@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdelrahmanAbdelmougeth
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI and Frontend
 - 🌱 I’m currently learning AI and Frontend Development
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ...
