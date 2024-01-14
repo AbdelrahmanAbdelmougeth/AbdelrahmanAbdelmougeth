@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdelrahmanAbdelmougeth
-- 👀 I’m interested in AI and Frontend
-- 🌱 I’m currently learning AI and Frontend Development
+- 👀 I’m interested in Embedded Systems, Web Development and AI
+- 🌱 I’m currently learning Embedded Systems and Frontend Development
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ...
 
